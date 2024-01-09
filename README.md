@@ -7,26 +7,25 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>Dedicated and passionate web developer. Eager to learn and work on different tech stacks.An enthusiastic Programmer. Good at graphic designing as a my hobby.Special interest in robotics engineering and artificial intelligence..</p>
+    <h4>Dedicated and passionate web developer. Eager to learn and work on different tech stacks.An enthusiastic Programmer. Good at graphic designing as a my hobby.Special interest in robotics engineering and artificial intelligence..</h4>
 </div>
 
 <div align="center">
-    <!-- Replace href with your links -->
-    <a href="https://www.linkedin.com/in/[YourLinkedIn]/">
+    <a href="https://www.linkedin.com/in/pm2001/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://dev.to/pm2001">
+        <img src="https://img.shields.io/badge/DEV-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
     </a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pm-2001&label=Profile%20views&color=0e75b6&style=flat" alt="pm-2001" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pm-2001&label=Profile%20views&color=0e75b6&style=flat" alt="pm-2001" /> </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pm-2001" alt="pm-2001" /></a> </p>
+<div align="center">
+    <a href="https://github.com/pm-2001/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pm-2001&row=1&theme=onedark" alt="pm-2001" width="90%"></a>
+</div>
 
 <img align="right" width="30%" alt="developer" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-
--> I’m currently working on **Blogwebsite**
-
--> I’m currently learning **Machine Learning**
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -36,15 +35,15 @@
 
 
 <div align="center">
-  <div display = "inline-block">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pm-2001&theme=ocean_dark&show_icons=true&locale=en&layout=compact" alt="pm2001" width = "31%">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pm-2001&theme=ocean_dark" alt= "GitHub Stats" width="60%">
-  </div>
+      <div display = "inline-block">
+        <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pm-2001&theme=ocean_dark&show_icons=true&locale=en&layout=compact" alt="pm2001" width = "31%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pm-2001&theme=nord_dark" width="60%" border = "2px white 10px">
+      </div>
 
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pm-2001&theme=ocean_dark&show_icons=true&locale=en" alt="pm-2001" />
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pm-2001&theme=ocean_dark" alt="pm-2001" />
+<div>
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pm-2001&theme=nord_dark" alt="pm-2001" width = "36%">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pm-2001&theme=ocean_dark" alt="pm-2001" width = "52%>
+    </div>
 </div>
 
 <div align="center">
