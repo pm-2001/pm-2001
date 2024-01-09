@@ -22,6 +22,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pm-2001&label=Profile%20views&color=0e75b6&style=flat" alt="pm-2001" /> </p>
 
 <div align="center">
+    <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
+
+<div align="center">
     <a href="https://github.com/pm-2001/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pm-2001&row=1&theme=onedark" alt="pm-2001" width="90%"></a>
 </div>
 
@@ -41,14 +45,12 @@
       </div>
 
 <div>
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pm-2001&theme=nord_dark" alt="pm-2001" width = "36%">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pm-2001&theme=ocean_dark" alt="pm-2001" width = "52%>
-    </div>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pm-2001&theme=nord_dark" alt="pm-2001" width = "36%">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pm-2001&theme=ocean_dark" alt="pm-2001" width = "52%>
+</div>
 </div>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/pm-2001/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
+
 
 
 
