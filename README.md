@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github.com/pm-2001/pm-2001/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
 <div align="center">
