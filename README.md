@@ -67,10 +67,6 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pm-2001&theme=nord_dark" width="60%" border = "2px white 10px">
 </div>
 <div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pm-2001&theme=nord_dark" alt="pm-2001" width = "36%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pm-2001&theme=ocean_dark" alt="pm-2001" width = "52%>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pm-2001&theme=nord_dark" alt="pm-2001" width = "36%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pm-2001&theme=ocean_dark" alt="pm-2001" width = "53%">
 </div>
-
-
-
-
