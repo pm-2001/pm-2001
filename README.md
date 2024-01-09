@@ -27,7 +27,7 @@
 <div align="center">
     <a href="https://github.com/pm-2001/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pm-2001&row=1&theme=onedark" alt="pm-2001" width="90%"></a>
 </div>
-<div>
+<div align = "center">
     <img align="center" width="30%" alt="developer" src="https://readme-jokes.vercel.app/api">
     <img align="center" width="40%" alt="developer" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </div>
@@ -68,9 +68,7 @@
 </div>
 <div align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pm-2001&theme=nord_dark" alt="pm-2001" width = "36%">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pm-2001&theme=ocean_dark" alt="pm-2001" width = "52%>
-        
-
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pm-2001&theme=ocean_dark" alt="pm-2001" width = "52%>
 </div>
 
 
