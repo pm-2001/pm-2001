@@ -27,11 +27,12 @@
 <div align="center">
     <a href="https://github.com/pm-2001/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pm-2001&row=1&theme=onedark" alt="pm-2001" width="90%"></a>
 </div>
+<div>
+    <img align="center" width="30%" alt="developer" src="https://readme-jokes.vercel.app/api">
+    <img align="center" width="40%" alt="developer" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</div>
 
-<img align="right" width="30%" alt="developer" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
@@ -69,7 +70,7 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pm-2001&theme=nord_dark" alt="pm-2001" width = "36%">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pm-2001&theme=ocean_dark" alt="pm-2001" width = "52%>
         
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pm-2001&theme=ocean_dark" alt="pm-2001" width = "52%>
+
 </div>
 
 
